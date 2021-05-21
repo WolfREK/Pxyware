@@ -3,5 +3,5 @@
 --why you snoopin man u creep
 
 if game.PlaceId == 286090429 then
-  print(game:HttpGet('https://raw.githubusercontent.com/WolfREK/Pxyware/main/NinjaLegends'));
+  print(loadstring(game:HttpGet('https://raw.githubusercontent.com/WolfREK/Pxyware/main/NinjaLegends',true))())
 end
