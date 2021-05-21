@@ -1,0 +1,7 @@
+--Pxyware HUB is very hot
+--wolfrek is cool
+--why you snoopin man u creep
+
+if game.PlaceId == 286090429 then
+  print('https://raw.githubusercontent.com/WolfREK/Pxyware/main/NinjaLegends');
+end
