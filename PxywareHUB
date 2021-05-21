@@ -2,6 +2,6 @@
 --wolfrek is cool
 --why you snoopin man u creep
 
-if game.PlaceId == 286090429 then
+if game.PlaceId == 3956818381 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/WolfREK/Pxyware/main/NinjaLegends',true))()
 end
